@@ -15,9 +15,10 @@ Simple PHP Framework
         <td>^1.4</td>
     </tr>
 </table>
+
 # Install
 <pre>composer require mona-abdo/framework</pre>
-<img src="install.png" />
+<img src="install.png" width="100%"/>
 <br><br>
 <img src="code.png" />
 
