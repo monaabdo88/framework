@@ -1,4 +1,4 @@
 # framework
-php simple framework
+Simple PHP Framework
 # to install the package run this command
-composer require mona-abdo/framework
+<pre>composer require mona-abdo/framework</pre>
