@@ -1,7 +1,6 @@
 # Framework
 Simple PHP Framework
 # Requirements
-<center>
 <table>
     <tr>
         <th>php</th>
@@ -16,9 +15,10 @@ Simple PHP Framework
         <td>^1.4</td>
     </tr>
 </table>
-</center>
 # Install
 <pre>composer require mona-abdo/framework</pre>
-<img src="download.png" />
+<img src="install.png" />
+<br><br>
+<img src="code.png" />
 
 
