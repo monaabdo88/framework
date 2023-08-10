@@ -18,7 +18,7 @@ Simple PHP Framework
 
 # Install
 <pre>composer require mona-abdo/framework</pre>
-<img src="install.png" width="100%"/>
+<img src="install.png" />
 <br><br>
 <img src="code.png" />
 
